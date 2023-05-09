@@ -1,0 +1,37 @@
+#main {
+  border: 1px solid black;
+  width: 350px;
+  height: 350px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-around;
+}
+.buttons button {
+  width: 100px;
+  height: 30px;
+}
+
+.products ul {
+  padding: 0px;
+  list-style-type: none;
+  line-height: 20px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+.products li {
+  font-size: 15px;
+  border-bottom: 1px solid black;
+}
+.products h1 {
+  margin-bottom: 5px;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}/*# sourceMappingURL=style.css.map */
